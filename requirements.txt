@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+folium
+streamlit-folium
+streamlit_searchbox
+openai
+google-genai
+PyPDF2
+openpyxl
